@@ -1,4 +1,4 @@
 # firstproject-demo
 This is my first Git Repository.
 <br>
-Author - Mahmudul Hasan
+Author - Mahmudul (Nishat)
